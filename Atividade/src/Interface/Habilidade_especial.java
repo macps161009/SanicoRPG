@@ -1,4 +1,6 @@
-package Model;
+package Interface;
+
+import Model.Personagem;
 
 public interface Habilidade_especial {
     void usarSK1(Personagem alvo);
